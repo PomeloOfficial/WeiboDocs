@@ -1,4 +1,4 @@
-![logo](Weibo-Theme-Logo.png)
+![logo](Weibo-Theme-Logo.png =100x)
 
 # Weibo <small>V3.0</small>
 
@@ -7,6 +7,7 @@
 > 一款适用于 Typecho 的仿微博主题
 
 - 高仿新浪微博
+- 支持自适应
 - 个性化程度高
 - 适配 Typecho 1.2.1
 
