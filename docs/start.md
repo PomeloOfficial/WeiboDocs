@@ -4,7 +4,7 @@
 
 * [主题官方 GitHub 仓库 Releases](https://github.com/PomeloOfficial/Weibo/releases)
 * 主题官方 Gitee 仓库（待上线）
-* [本地镜像](/files/Weibo-3.0.zip)
+* [本地镜像](https://weibo.rowingbohe.com/files/Weibo-3.0.zip)
 
 此外，也可从以下主题汇总站下载镜像：
 * [Typecho.Work](https://typecho.work)

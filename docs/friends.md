@@ -3,7 +3,7 @@
 
 ### 下载
 * [GitHub 官方下载](https://github.com/Mejituu/Links/releases)
-* [本地镜像](/files/Links-1.2.7.zip)
+* [本地镜像](https://weibo.rowingbohe.com/files/Links-1.2.7.zip)
 
 ### 安装与启用
 
