@@ -19,15 +19,13 @@
 
 从 GitHub Releases 上下载最新版本主题（V3.0）压缩包后，解压并将整个文件夹上传至你的博客的<code>/usr/themes</code>目录下（或者，上传压缩包后在你的服务器上解压），最后将文件夹改名为<code>Weibo</code>即可。
 
-> 注意检查文件夹内是否即为主题文件，而不是另一个嵌套文件夹。
-
 上传完成后，在博客后台<code>控制台</code>-<code>外观</code>处启用主题，再点击<code>设置外观</code>即可进入主题设置页面。
 
 ## 历史
 
-本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植中的具体细节已经丢失。2025 年，对主题进行修复完善。
+本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植中的具体细节已经丢失。2025 年，对主题进行修复与完善。
 
-感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html">Kratos 主题</a>，在此一并感谢。
+感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html" target="_blank">Kratos 主题</a>，在此一并感谢。
 
 ## 作者的话
 

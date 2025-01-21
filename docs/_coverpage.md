@@ -11,4 +11,4 @@
 - 适配 Typecho 1.2.1
 
 [GitHub](https://github.com/PomeloOfficial/Weibo)
-[阅读文档](#docsify)
+[阅读文档](/README.md)
