@@ -1,8 +1,7 @@
 * 关于
-  * [关于 Weibo](about.md)
+  * [关于 Weibo](README.md)
   * [更新历史](history.md)
-  * [关于作者](aboutme.md)
-  * [作者的话](words.md)
+  * [作者的话](about.md)
 
 * 开始使用
   * [下载与上传](start.md)

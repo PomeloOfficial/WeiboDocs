@@ -2,7 +2,7 @@
 
 # Weibo <small>V3.0</small>
 
-> 心有猛虎，细嗅蔷薇
+> 微言大“艺”
 
 > 一款适用于 Typecho 的仿微博主题
 
