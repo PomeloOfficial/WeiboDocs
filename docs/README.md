@@ -1,7 +1,6 @@
 ## Weibo
 
-> 微言大“艺”
-> Short Words are best
+> 微言大“艺”<br>Short words are best
 
 一款适用于 Typecho 的仿新浪微博主题。
 
@@ -13,7 +12,7 @@
 * 可设置背景图、顶栏背景图
 * 可自定义顶栏、信息栏、关注按钮等
 * 首页大图多样化选择，支持随机图
-* 适配 Typecho 1.2.1与PHP 8.0
+* 适配 Typecho 1.2.1 与 PHP 8.0
 * 支持备份主题设置数据（测试）
 
 ## 开箱即用
@@ -22,16 +21,20 @@
 
 > 注意检查文件夹内是否即为主题文件，而不是另一个嵌套文件夹。
 
-上传完成后，在博客后台<code>控制台</code>-<code>外观</code>处启用主题，再点击“设置外观”即可进入主题设置页面。
+上传完成后，在博客后台<code>控制台</code>-<code>外观</code>处启用主题，再点击<code>设置外观</code>即可进入主题设置页面。
 
 ## 历史
 
-本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名Rowingbohe）于2018年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植中的具体细节已经丢失。
+本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植中的具体细节已经丢失。2025 年，对主题进行修复完善。
 
-感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a>及<a href="https://typecho.work/archives/Kratos.html">Kratos主题</a>，在此一并感谢。
+感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html">Kratos 主题</a>，在此一并感谢。
 
 ## 作者的话
 
 从十年前初入建站，八年前第一次安装 Typecho，七年前敲下第一行魔改代码，再到今天重走十年前的路，以往写下的文章、买下的域名，留到今天的少之又少，但这个技术含量不高的主题是我为数不多留下来、并且对大众有一点点用的产物。改 bug 的过程中，我时常在想 N 年前的我是怎么整出这么 nb 的东西的 :joy: 希望改完之后的这套主题，能至少有一些可用性，也希望能为日渐式微的 Typecho 圈子乃至博客圈子发光发热。
 
-那么，乙巳蛇年前夕，回应大家的等待：Weibo 主题打赢复活赛了！
+那么，乙巳蛇年春节前夕，在此回应大家的等待：Weibo 主题打赢复活赛了！
+
+——Pomelo 2025-01-21
+
+![孩子们，我回来了](/womeiyijian.png)
