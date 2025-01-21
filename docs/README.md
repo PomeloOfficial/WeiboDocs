@@ -44,7 +44,8 @@
 ## 致谢
 
 * 感谢原 WordPress 主题作者 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>，感谢原网站源码制作者（暂时不明）。
-* 感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。
+* 感谢阿珏博客（原链接已失效）协助开发自适应。
+* 感谢原 Typecho Lover 社区的支持。
 * 部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html" target="_blank">Kratos 主题</a>。
 * 主题默认壁纸、随机图均为哔哩哔哩看板娘 22、33，取自 B 站[@壁纸娘](https://space.bilibili.com/6823116/dynamic)。
 * 最后感谢 <a href="https://typecho.org">Typecho</a> 这么一款优秀的博客引擎，承载了和我们一样无数人的梦想。
