@@ -37,4 +37,4 @@
 
 ——Pomelo 2025-01-21
 
-![孩子们，我回来了](/womeiyijian.png)
+<center><img src="/womeiyijian.png" alt="孩子们，我回来了" width="100px"></center>
