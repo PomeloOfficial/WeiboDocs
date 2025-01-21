@@ -27,7 +27,7 @@
 
 ## 历史
 
-本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植过程中的具体细节已经丢失。2025 年，对主题进行修复与完善。
+本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），迭代至 V2.5 版本后因各种原因弃坑。2025 年，对主题进行修复与完善。
 
 ## 作者的话
 

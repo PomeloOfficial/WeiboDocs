@@ -6,10 +6,10 @@
 * 主题官方 Gitee 仓库（待上线）
 * [本地镜像](https://weibo.rowingbohe.com/files/Weibo-3.0.zip)
 
-此外，也可从以下主题汇总站下载镜像：
+此外，也可从以下主题汇总站下载镜像（仅限 V3.0 版本）：
 * [Typecho.Work](https://typecho.work)
 * [Typecho Themes](https://typechx.com/themes)
-* [Typecho 官方论坛](https://forum.typecho.org)
+* [Typecho 官方论坛](https://forum.typecho.org/viewtopic.php?p=61306#p61306)
 
 ## 安装
 
