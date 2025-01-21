@@ -1,4 +1,4 @@
-![logo](Weibo-Theme-Logo.png =100x)
+<img src="/Weibo-Theme-Logo.png" width="100" alt="Logo">
 
 # Weibo <small>V3.0</small>
 
