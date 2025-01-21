@@ -29,7 +29,6 @@
 
 本主题由 <a href="https://rowingbohe.com" target="_blank">Pomelo</a>（原名 Rowingbohe）于 2018 年二次移植自 WordPress 主题（原作者为 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>），因为历史比较久远，移植中的具体细节已经丢失。2025 年，对主题进行修复与完善。
 
-感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html" target="_blank">Kratos 主题</a>，在此一并感谢。
 
 ## 作者的话
 
@@ -40,3 +39,10 @@
 ——Pomelo 2025-01-21
 
 <center><img src="/womeiyijian.png" alt="孩子们，我回来了" width="100px"></center>
+
+## 致谢
+
+* 感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。
+* 部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html" target="_blank">Kratos 主题</a>。
+* 主题默认壁纸、随机图均为哔哩哔哩看板娘 22、33，取自 B 站[@壁纸娘](https://space.bilibili.com/6823116/dynamic)。
+* 最后，感谢 <a href="https://typecho.org">Typecho</a> 这么一款优秀的博客引擎，承载了和我们一样无数人的梦想。

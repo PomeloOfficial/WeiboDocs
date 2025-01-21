@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](Weibo_Theme_Logo.png)
 
 # Weibo <small>V3.0</small>
 
