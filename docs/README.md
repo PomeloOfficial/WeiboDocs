@@ -1,8 +1,10 @@
-## Weibo
+# Weibo
 
 > 微言大“艺”<br>Short words are best
 
 一款适用于 Typecho 的仿新浪微博主题。
+
+> 最新版本：<img src="https://img.shields.io/github/release/PomeloOfficial/Weibo.svg?style=flat-square">
 
 ## 主题特点
 
@@ -14,6 +16,8 @@
 * 首页大图多样化选择，支持随机图
 * 适配 Typecho 1.2.1 与 PHP 8.0
 * 支持备份主题设置数据（测试）
+
+<img src="/screenshot.png" alt="主题截图">
 
 ## 开箱即用
 

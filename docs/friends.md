@@ -1,11 +1,11 @@
 ## 配套插件
 友情链接功能需配套经典插件<code>Links</code>使用，启用该插件后将在左侧信息栏展示“左邻右舍”板块。
 
-# 下载
+### 下载
 * [GitHub 官方下载](https://github.com/Mejituu/Links/releases)
 * [本地镜像](/files/Links-1.2.7.zip)
 
-# 安装与启用
+### 安装与启用
 
 下载得到插件压缩包后，解压并将整个文件夹上传至你的博客的<code>/usr/plugins</code>目录下（或者，上传压缩包后在你的服务器上解压）。
 
