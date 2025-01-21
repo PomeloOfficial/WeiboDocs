@@ -1,6 +1,6 @@
 ## 关于图标
 
-主题内置 Font Awesome（下简称 FA）V4 及V5、V6 免费版，采用 jsDelivr 提供的 CDN 加速。
+主题内置 Font Awesome（简称 FA）V4 及V5、V6 免费版，采用 jsDelivr 提供的 CDN 加速。
 
 ### FA V4
 
@@ -32,4 +32,4 @@
 
 ## 使用其他图标
 
-你也可以参考作者博客提供的教程，从国内网站 IconFont 挑选自己心仪的图标，并配置在网站上使用。
+你也可以参考作者博客提供的教程（待补充），从国内网站 [IconFont](https://iconfont.cn) 挑选自己心仪的图标，并配置在网站上使用。
