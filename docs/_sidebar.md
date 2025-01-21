@@ -1,7 +1,7 @@
 * 关于
   * [关于 Weibo](README.md)
   * [开始使用](start.md)
-  * [版本历史](hisroty.md)
+  * [版本历史](history.md)
 
 * 配置主题
   * [头像设置](avatar.md)
