@@ -1,9 +1,11 @@
 * 关于
   * [关于 Weibo](README.md)
+  * [开始使用](start.md)
 
-* 开始使用
-  * [安装主题](start.md)
-  * [配置主题](settings.md)
+* 配置主题
+  * [头像设置](avatar.md)
+  * [首页大图设置](dt.md)
+  * [导航栏配置](sidebar.md)
   * [设置友情链接](friends.md)
 
 * 详细配置

@@ -31,7 +31,9 @@
 
 ## 作者的话
 
-从十年前初入建站，八年前第一次安装 Typecho，七年前敲下第一行魔改代码，再到今天重走十年前的路，以往写下的文章、买下的域名，留到今天的少之又少，但这个技术含量不高的主题是我为数不多留下来、并且对大众有一点点用的产物。改 bug 的过程中，我时常在想 N 年前的我是怎么整出这么 nb 的东西的 :joy: 希望改完之后的这套主题，能至少有一些可用性，也希望能为日渐式微的 Typecho 圈子乃至博客圈子发光发热。
+从十年前初入建站，八年前第一次安装 Typecho，七年前敲下第一行魔改代码，再到今天重走十年前的路，以往写下的文章、买下的域名，留到今天的少之又少，但这个技术含量不高的主题是我为数不多留下来、并且对大众有一点点用的产物。改 bug 的过程中，我时常在想 N 年前的我是怎么整出这么 nb 的东西的 :joy: 
+
+希望改完之后的这套主题，能至少有一些可用性，也希望能为日渐式微的 Typecho 圈子乃至博客圈子发光发热。
 
 那么，乙巳蛇年春节前夕，在此回应大家的等待：Weibo 主题打赢复活赛了！
 
@@ -45,7 +47,8 @@
 
 ## 致谢
 
+* 感谢原 WordPress 主题作者 <a href="https://www.ahwgs.cn" target="_blank">W候人兮猗</a>，感谢原网站源码制作者（暂时不明）。
 * 感谢阿珏博客（原链接已失效）、原 Typecho Lover 社区的支持。
 * 部分代码参考及移植自<a href="https://typecho.work" target="_blank">泽泽社长</a>、<a href="https://blog.iplayloli.com" target="_blank">Ryan's Blog</a> 及 <a href="https://typecho.work/archives/Kratos.html" target="_blank">Kratos 主题</a>。
 * 主题默认壁纸、随机图均为哔哩哔哩看板娘 22、33，取自 B 站[@壁纸娘](https://space.bilibili.com/6823116/dynamic)。
-* 最后，感谢 <a href="https://typecho.org">Typecho</a> 这么一款优秀的博客引擎，承载了和我们一样无数人的梦想。
+* 最后感谢 <a href="https://typecho.org">Typecho</a> 这么一款优秀的博客引擎，承载了和我们一样无数人的梦想。
