@@ -1,10 +1,9 @@
 # Weibo
 
-> 微言大“艺”<br>Short words are best
+> 微言大“艺”<br>The Art of Sublime Words
 
 一款适用于 Typecho 的仿新浪微博主题。
 
-> 最新版本：<img src="https://img.shields.io/github/release/PomeloOfficial/Weibo.svg?style=flat-square">
 
 ## 主题特点
 
@@ -21,7 +20,9 @@
 
 ## 开箱即用
 
-从 GitHub Releases 上下载最新版本主题（V3.0）压缩包后，解压并将整个文件夹上传至你的博客的<code>/usr/themes</code>目录下（或者，上传压缩包后在你的服务器上解压），最后将文件夹改名为<code>Weibo</code>即可。
+> 最新版本：<img src="https://img.shields.io/github/release/PomeloOfficial/Weibo.svg?style=flat-square">
+
+从 GitHub Releases 上下载主题最新版本压缩包后，解压并将整个文件夹上传至你的博客的<code>/usr/themes</code>目录下（或者，上传压缩包后在你的服务器上解压），最后将文件夹改名为<code>Weibo</code>即可。
 
 上传完成后，在博客后台<code>控制台</code>-<code>外观</code>处启用主题，再点击<code>设置外观</code>即可进入主题设置页面。
 
