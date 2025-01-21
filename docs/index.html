@@ -16,10 +16,16 @@
       loadSidebar: true,
       loadNavbar: true,
       coverpage: true,
+      auto2top: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
-	  search: 'auto', // 默认值
+	  search: 'auto', // 默认值	  
+      copyCode: {
+	  buttonText: '复制',
+	  errorText: '错误，请重试',
+	  successText: '复制成功',
+      },
 	  plugins: [
         function(hook) {
           var footer = [
