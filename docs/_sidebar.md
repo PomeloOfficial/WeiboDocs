@@ -1,5 +1,5 @@
 * 关于
-  * [关于Weibo](README.md)
+  * [关于 Weibo](README.md)
 
 * 开始使用
   * [安装主题](start.md)

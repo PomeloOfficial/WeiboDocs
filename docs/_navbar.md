@@ -1,2 +1,2 @@
 * [GitHub](https://github.com/PomeloOfficial/Weibo)
-* [作者博客](https://rowingbohe.com)
+* [作者网站](https://rowingbohe.com)

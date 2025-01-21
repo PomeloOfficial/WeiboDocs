@@ -2,14 +2,14 @@
 
 您可以通过以下任一途径下载主题：
 
-* [主题官方GitHub仓库 Releases](https://github.com/PomeloOfficial/Weibo/releases)
-* 主题官方Gitee仓库（待上线）
+* [主题官方 GitHub 仓库 Releases](https://github.com/PomeloOfficial/Weibo/releases)
+* 主题官方 Gitee 仓库（待上线）
 * [本地镜像](/files/Weibo-3.0.zip)
 
 此外，也可从以下主题汇总站下载镜像：
 * [Typecho.Work](https://typecho.work)
 * [Typecho Themes](https://typechx.com/themes)
-* [Typecho官方论坛](https://forum.typecho.org)
+* [Typecho 官方论坛](https://forum.typecho.org)
 
 ## 安装
 
@@ -25,4 +25,4 @@
 
 主题首次启用时，部分参数已自动填写供参考
 
-> 由于Typecho特性，切换主题时原有设置参数会丢失。因此，如需从Weibo主题切换至其他主题，务必在<code>设置外观</code>界面点击<code>备份模板设置数据</code>按钮；之后，从其他主题切换回Weibo主题时，可点击<code>还原模板设置数据</code>按钮迅速恢复原有设置。
+> 由于 Typecho 特性，切换主题时原有设置参数会丢失。因此，如需从 Weibo 主题切换至其他主题，务必在<code>设置外观</code>界面点击<code>备份模板设置数据</code>按钮；之后，从其他主题切换回 Weibo 主题时，可点击<code>还原模板设置数据</code>按钮迅速恢复原有设置。
